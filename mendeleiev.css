@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+.form{
+    border-radius: 10px;
+    background-color: #BEC7FE;
+    justify-content: center;
+    text-align: center;  
+    height: 8rem;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#acceder{
+    border-radius: 5rem;
+    width: 100px;
+    margin: 10px;
+}
+h2{
+    padding-top: 5%;
+    font-size: xx-large;
+}
+#acceder{
+    margin-top: 6%;
+    border: none;
+    width: 30%;
+    height: 29px;
+}
+button{
+    cursor: pointer;
+    background-color: #D6F6CF;
+}
+.aa{
+    padding: 25%;
+    width: 50%;
+    text-align: center;
+}
+@media screen and (max-width: 200px) {
+    .form{
+        font-size: 12px;
+    }
+}
